@@ -1,0 +1,21 @@
+[0819/172617.556:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir35160_808484758\Crashpad\reports\fc433601-2996-4971-b721-af67e15bb555.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0819/173851.135:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/173851.356:ERROR:process_info.cc(359)] UncheckedAllocate
+[0819/185950.920:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir17208_1359993860\Crashpad: The system cannot find the file specified. (0x2)
+[0819/190908.616:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir23756_1093095142\Crashpad: The system cannot find the file specified. (0x2)
+[0820/153645.834:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir16912_2040658385\Crashpad: The system cannot find the file specified. (0x2)
+[0820/153830.309:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir14916_1370919385\Crashpad: The system cannot find the file specified. (0x2)
+[0821/170141.674:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir21108_294091557\Crashpad: The system cannot find the file specified. (0x2)
+[0821/181049.043:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/181049.060:ERROR:exception_snapshot_win.cc(98)] thread ID 23048 not found in process
+[0821/181152.152:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir7372_1980247771\Crashpad: The system cannot find the file specified. (0x2)
+[0821/181222.548:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/181222.580:ERROR:exception_snapshot_win.cc(98)] thread ID 27284 not found in process
+[0821/181222.596:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/181222.596:ERROR:exception_snapshot_win.cc(98)] thread ID 25844 not found in process
+[0821/184543.190:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir16596_61238578\Crashpad: The system cannot find the file specified. (0x2)
+[0821/185310.322:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\LPRIYA~1.RAV\AppData\Local\Temp\scoped_dir2948_453080600\Crashpad: The system cannot find the file specified. (0x2)
+[0821/185343.191:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/185343.196:ERROR:exception_snapshot_win.cc(98)] thread ID 19820 not found in process
+[0821/185343.203:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0821/185343.203:ERROR:exception_snapshot_win.cc(98)] thread ID 27588 not found in process
