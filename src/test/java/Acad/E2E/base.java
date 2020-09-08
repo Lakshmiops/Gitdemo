@@ -21,6 +21,7 @@ public class base extends Project{
 		driver=initializeDriver();
 		log.info("base driver");
 		driver.get("https://rahulshettyacademy.com/#/index");
+		System.out.println("GIt check");
 		Homepage hp=new Homepage(driver);
 		  Assert.assertEquals(hp.title().getText(), "Featured Courses");
 	        Assert.assertTrue(hp.navigation().isDisplayed());
